@@ -1,0 +1,21 @@
+{
+  "name": "backend_estandar_web",
+  "version": "1.0.0",
+  "description": "App para facilitar el acceso a la informacion de empleados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Rincon, Mateo Ospina, Anderson Londoño.",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
