@@ -4,6 +4,7 @@
   "description": "App para facilitar el acceso a la informacion de empleados.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rafael Rincon, Mateo Ospina, Anderson Londoño.",
